@@ -56,4 +56,4 @@ Moreover, the following Google Colab notebook is available where you can use the
 to generate new descriptions and titles (it must be noted that the models can take a while to load):
 https://colab.research.google.com/drive/1M5ffWIso0FAnHlbqRvW0ow5aZAq091fn?usp=sharing.
 
-If you want to try it locally, the repository contains the code `MovieGen.ipynb`
+If you want to try it locally, the repository contains the code `MovieGen.ipynb`.
